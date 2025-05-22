@@ -1,6 +1,5 @@
 ## Experiment No:4 
-## Title: Scenario-Based Report Development Utilizing Diverse Prompting 
-Techniques 
+## Title: Scenario-Based Report Development Utilizing Diverse Prompting Techniques 
 
 ### Name: MUKESH KUMAR J.P 
 ### Reg No: 212222223002 
