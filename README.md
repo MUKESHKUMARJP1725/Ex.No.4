@@ -1,4 +1,4 @@
-## Experiment No:4 
+## Experiment No.4 
 ## Title: Scenario-Based Report Development Utilizing Diverse Prompting Techniques 
 
 ### Name: MUKESH KUMAR J.P 
